@@ -24,3 +24,6 @@ We create visualizations using Plotly, seamlessly integrating cuDF.
 Even third-party libraries benefit from the GPU acceleration with cudf.pandas enabled.
 Conclusion:
 With cudf.pandas, you can supercharge your data analysis on a GPU with zero code changes. Just load the extension and watch your workflows fly!
+Link for more data
+https://rapids.ai/cudf-pandas/
+
